@@ -7,7 +7,7 @@ Code output can be found at the end of the code as comment
 The Task was to calculate the volume of both the sun and earth as perfect spheres using the 
 java.lang.Math class. 
 Diameters for both spheres where given in miles. 
-With the fomula for the volume of a sphere beeing V = (4/3) * pi * r^3
+With the fomula for the volume of a sphere beeing $V = (4/3) * pi * r^3$
 
 ## Problem 2:
 A given code (givibng all prime numbers up to 50) was to be changed so that it
