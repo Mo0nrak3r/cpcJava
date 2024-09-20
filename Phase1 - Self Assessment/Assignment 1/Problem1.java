@@ -6,8 +6,8 @@ public class Problem1{
     {  
         int diameter_sun = 865000; //miles
         int diameter_earth = 7917; //miles
-        int radius_sun = diameter_sun/2;
-        int radius_earth = diameter_earth/2;
+        double radius_sun = diameter_sun/2;
+        double radius_earth = diameter_earth/2;
         double volume_sun = 0.0;
         double volume_earth = 0.0;
         double volume_ratio = 0.0;
