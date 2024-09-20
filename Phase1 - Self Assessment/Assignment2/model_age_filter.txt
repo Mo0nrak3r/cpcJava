@@ -1,0 +1,4 @@
+ID: 5, Make: Mercedes, Model: C-Class, Year: 2005, Color: Gray, Price: 21500.0, Registration Number: REG1005
+ID: 35, Make: Mercedes, Model: C-Class, Year: 2014, Color: Gray, Price: 30500.0, Registration Number: REG1035
+ID: 65, Make: Mercedes, Model: C-Class, Year: 2002, Color: Gray, Price: 39500.0, Registration Number: REG1065
+ID: 95, Make: Mercedes, Model: C-Class, Year: 2011, Color: Gray, Price: 48500.0, Registration Number: REG1095

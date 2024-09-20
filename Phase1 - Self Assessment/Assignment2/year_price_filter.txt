@@ -1,0 +1,4 @@
+ID: 36, Make: Toyota, Model: Camry, Year: 2015, Color: Red, Price: 30800.0, Registration Number: REG1036
+ID: 57, Make: Chevrolet, Model: Camaro, Year: 2015, Color: Black, Price: 37100.0, Registration Number: REG1057
+ID: 78, Make: Toyota, Model: Yaris, Year: 2015, Color: Red, Price: 43400.0, Registration Number: REG1078
+ID: 99, Make: Chevrolet, Model: Tahoe, Year: 2015, Color: Black, Price: 49700.0, Registration Number: REG1099

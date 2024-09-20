@@ -1,0 +1,17 @@
+ID: 0, Make: Toyota, Model: Corolla, Year: 2000, Color: Red, Price: 20000.0, Registration Number: REG1000
+ID: 6, Make: Toyota, Model: Camry, Year: 2006, Color: Red, Price: 21800.0, Registration Number: REG1006
+ID: 12, Make: Toyota, Model: Prius, Year: 2012, Color: Red, Price: 23600.0, Registration Number: REG1012
+ID: 18, Make: Toyota, Model: Yaris, Year: 2018, Color: Red, Price: 25400.0, Registration Number: REG1018
+ID: 24, Make: Toyota, Model: Avalon, Year: 2003, Color: Red, Price: 27200.0, Registration Number: REG1024
+ID: 30, Make: Toyota, Model: Corolla, Year: 2009, Color: Red, Price: 29000.0, Registration Number: REG1030
+ID: 36, Make: Toyota, Model: Camry, Year: 2015, Color: Red, Price: 30800.0, Registration Number: REG1036
+ID: 42, Make: Toyota, Model: Prius, Year: 2000, Color: Red, Price: 32600.0, Registration Number: REG1042
+ID: 48, Make: Toyota, Model: Yaris, Year: 2006, Color: Red, Price: 34400.0, Registration Number: REG1048
+ID: 54, Make: Toyota, Model: Avalon, Year: 2012, Color: Red, Price: 36200.0, Registration Number: REG1054
+ID: 60, Make: Toyota, Model: Corolla, Year: 2018, Color: Red, Price: 38000.0, Registration Number: REG1060
+ID: 66, Make: Toyota, Model: Camry, Year: 2003, Color: Red, Price: 39800.0, Registration Number: REG1066
+ID: 72, Make: Toyota, Model: Prius, Year: 2009, Color: Red, Price: 41600.0, Registration Number: REG1072
+ID: 78, Make: Toyota, Model: Yaris, Year: 2015, Color: Red, Price: 43400.0, Registration Number: REG1078
+ID: 84, Make: Toyota, Model: Avalon, Year: 2000, Color: Red, Price: 45200.0, Registration Number: REG1084
+ID: 90, Make: Toyota, Model: Corolla, Year: 2006, Color: Red, Price: 47000.0, Registration Number: REG1090
+ID: 96, Make: Toyota, Model: Camry, Year: 2012, Color: Red, Price: 48800.0, Registration Number: REG1096
